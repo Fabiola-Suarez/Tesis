@@ -1,0 +1,35 @@
+# Datasets generados (se regeneran con el script y la semilla fija)
+data/*.csv
+data/*.sql
+data/*.dump
+!data/.gitkeep
+
+# Volúmenes de Docker y datos de los motores
+docker/volumes/
+docker/pgdata/
+docker/mariadb-data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credenciales y configuración local
+.env
+*.local
+
+# Logs y temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporales de Word / LaTeX
+~$*
+*.aux
+*.out
+*.toc
+*.synctex.gz
+
+# Los resultados de las mediciones SÍ se versionan (results/*.csv)
