@@ -4,8 +4,10 @@ Tesina que compara PostgreSQL y MariaDB sobre operaciones SQL equivalentes, vari
 
 ## Estructura del repositorio
 
-| Carpeta | Contenido |
-| `tesina/` | Texto de la tesina y bibliografía |
+| Ruta | Contenido |
+| --- | --- |
+| `tesina/introduccion.md` | Introducción de la tesina |
+| `tesina/bibliografia.md` | Bibliografía |
 
 ## Cronograma (sep 2026 - abr 2027)
 
