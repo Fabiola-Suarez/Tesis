@@ -2,7 +2,7 @@
 
 ## 1.1. Contextualización
 
-Las bases de datos relacionales constituyen un componente fundamental de numerosos sistemas informáticos, ya que permiten almacenar, organizar, consultar y modificar información estructurada. Su utilización se encuentra presente en aplicaciones empresariales, plataformas educativas, sistemas administrativos y otros entornos que requieren gestionar grandes volúmenes de datos (Elmasri & Navathe, 2016; Silberschatz et al., 2019).
+Las bases de datos relacionales constituyen un componente fundamental de numerosos sistemas informáticos, ya que permiten almacenar, organizar, consultar y modificar información estructurada. Su utilización se encuentra presente en aplicaciones empresariales, plataformas educativas, sistemas administrativos y otros entornos que requieren gestionar grandes volúmenes de datos.
 
 El funcionamiento de estos sistemas depende, entre otros factores, de la capacidad del motor de base de datos para procesar las operaciones solicitadas. Las consultas, inserciones, actualizaciones y eliminaciones de registros requieren recursos computacionales y pueden presentar diferentes tiempos de ejecución dependiendo de las características de la información almacenada y de las estrategias utilizadas para su procesamiento.
 
@@ -12,7 +12,7 @@ Entre los sistemas gestores de bases de datos relacionales de código abierto se
 
 La evaluación de estas diferencias requiere considerar múltiples factores, entre ellos el volumen de registros, la utilización de índices, las características de las consultas y la configuración del entorno de ejecución.
 
-En este contexto, el presente trabajo propone realizar un análisis comparativo de los tiempos de ejecución de distintas operaciones SQL sobre PostgreSQL y MariaDB, mediante la implementación de escenarios de prueba equivalentes que permitan observar su comportamiento y analizar los factores asociados a las diferencias de rendimiento.
+En este contexto, el trabajo propone realizar un análisis comparativo de los tiempos de ejecución de distintas operaciones SQL sobre PostgreSQL y MariaDB, mediante la implementación de escenarios de prueba equivalentes que permitan observar su comportamiento y analizar los factores asociados a las diferencias de rendimiento.
 
 ## 1.2. Planteamiento del problema
 

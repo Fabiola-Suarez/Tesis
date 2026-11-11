@@ -6,7 +6,5 @@
 | Memoria | 16 GB RAM instalados (15,3 GB utilizables) |
 | Sistema anfitrión | Windows 11 de 64 bits |
 | WSL | WSL2 presente (versión reportada 2.5.10.0) |
-| Docker | Docker Desktop detectado |
-| Almacenamiento total informado | 1,13 TB; 139 GB usados en la captura |
-| Tipo de unidad (SSD/HDD/NVMe) | Pendiente de comprobar |
-
+| Docker | Docker Desktop |
+| Almacenamiento total | 1,13 TB; 139 GB entre el dico C y el disco D externo |

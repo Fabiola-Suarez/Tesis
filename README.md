@@ -1,8 +1,6 @@
 # Análisis comparativo de los tiempos de ejecución en motores de bases de datos relacionales
 
 **Motores estudiados:** PostgreSQL y MariaDB.
-**Reuniones con dirección:** cada 15 días.  
-**Infraestructura:** Docker, WSL2.
 
 ## Resumen
 
@@ -14,10 +12,10 @@ Comparar los tiempos de ejecución de operaciones SQL equivalentes en los motore
 
 ## Documentación principal
 
-- [Capítulo 1 — Introducción](docs/tesina/01-introduccion.md)
-- [Anexo I original](docs/propuesta/anexo-I-original.docx)
-- [Bibliografía inicial](docs/propuesta/bibliografia.md)
-- [Cronograma](docs/propuesta/cronograma.md)
+- [Capítulo 1 — Introducción](https://github.com/Fabiola-Suarez/Tesis/blob/masterdocs/tesina/01-introduccion.md)
+- [Anexo I original](https://github.com/Fabiola-Suarez/Tesis/blob/master/docs/propuesta/Anexo_detallado.pdf).
+- [Bibliografía inicial](https://github.com/Fabiola-Suarez/Tesis/blob/master/docs/propuesta/bibliografia.md)
+- [Cronograma](https://github.com/Fabiola-Suarez/Tesis/blob/masterdocs/propuesta/cronograma.md)
 
 ## Organización
 
@@ -27,4 +25,4 @@ Comparar los tiempos de ejecución de operaciones SQL equivalentes en los motore
 | `docs/tesina/` | Capítulos académicos. |
 | `docs/entorno/` | Hardware y alternativas de infraestructura. |
 | `docs/gestion/` | Estado del proyecto, decisiones, riesgos y seguimiento. |
-| `docs/reuniones/` | Agenda de reuniones con director. |
+| `docs/reuniones/` | [Seguimiento de reuniones y devoluciones](docs/reuniones/seguimiento_01.md). |
